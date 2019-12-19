@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:tools="http://schemas.android.com/tools" tools:ignore="MissingTranslation">
+    <string name="app_version" translatable="false">"App Version: 1.0"</string>
+    <string name="author_label">"Under: Dr. Sonali Agarwal and Dr. Abhishek Vaish \n\nGuided by: Ashutosh Kumar Sir(PSE2016003) and Sadhana Tiwari Ma'am (RSI2018507) \n\nMembebrs: Anuj Kumar Singh(IIT2017015), Abhishek Sharma(IIT2017044), Senky Bansal(IIT2017038), Gurmeet(IIT2017073), Naman Bahl(IIT2017074)"</string>
+    <string name="under" translatable="false">"Dr. Sonali Agarwal and Dr. Abhishek Vaish"</string>
+    <string name="guided_by" translatable="false">"Ashutosh Kumar Sir(PSE2016003) and Sadhana Tiwari Ma'am (RSI2018507)"</string>
+    <string name="author" translatable="false">Anuj Kumar Singh(IIT2017015), Abhishek Sharma(IIT2017044), Senky Bansal(IIT2017038), Gurmeet(IIT2017073), Naman Bahl(IIT2017074)</string>
+    <string name="email_label" translatable="false">"\nContact the developers: "</string>
+    <string name="email_url" translatable="false">"iit2017015@iiita.ac.in\niit2017044@iiita.ac.in\niit2017038@iiita.ac.in\niit2017073@iiita.ac.in\niit2017074@iiita.ac.in"</string>
+    <string name="revision_history_label" translatable="false">Revision History: Nill till now</string>
+    <string name="thanks_label" translatable="false">Libraries used in this app: </string>
+    <string name="MPAndroidChart_content" translatable="false">MPAndroidChart (Apache 2.0)</string>
+    <string name="javaCSV_content" translatable="false">JavaCSV (LGPL)</string>
+    <string name="antoniomChronometer_content" translatable="false">Millisecond-Chronometer (Apache 2.0)</string>
+    <string name="PagerSlidingTabStrip_content" translatable="false">PagerSlidingTabStrip (Apache 2.0)</string>
+    <string name="LicensesDialog_content" translatable="false">LicensesDialog (Apache 2.0)</string>
+    <string name="SmartTabLayout_content" translatable="false">SmartTabLayout (Apache 2.0)</string>
+    <string name="freepik_content" translatable="false">Freepik (Free License with attribution)</string>
+    <string name="flaticon_content" translatable="false">Flaticon (Free License with attribution)</string>
+    <string name="circleprogress_content" translatable="false">CircleProgress (WTFPL License)</string>
+    <string name="circularImageView_content" translatable="false">CircularImageView (Apache 2.0)</string>
+    <string name="ktoast_content" translatable="false">KToast (Apache 2.0)</string>
+    <string name="SweetAlertDialog_content" translatable="false">SweetAlertDialog (MIT)</string>
+    <string name="AndroidImageCropper_content" translatable="false">Android-Image-Cropper (Apache 2.0)</string>
+    <string name="MaterialFavoriteButton_content" translatable="false">Material Favorite Button (Apache 2.0)</string>
+
+</resources>
